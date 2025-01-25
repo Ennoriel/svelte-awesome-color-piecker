@@ -18,6 +18,12 @@ The library uses 2 libraries:
 
 <div style="background-color: #CCFFCC; padding: 16px 0; margin-top: 32px;" >
 
+> A beta version exists for svelte 5. You can install it with the command: `npm install svelte-awesome-color-picker@beta`. You will find the [doc deployed here](https://svelte-awesome-color-picke-git-8efcef-maximes-projects-f3ddeaab.vercel.app/).
+
+</div>
+
+<div style="background-color: #CCFFCC; padding: 16px 0; margin-top: 32px;" >
+
 > This documentation is the documentation of svelte-awesome-color-picker v3. If you are looking to upgrate to v3, see the section [upgrade from v2 to v3](#upgrade-from-v2-to-v3). If you are looking for the v2 documentation, see [the v2 documentation](https://github.com/Ennoriel/svelte-awesome-color-picker/tree/v2.x.x).
 
 </div>

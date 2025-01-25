@@ -10,6 +10,10 @@
 - 🧩 fully customizable
 - 🔨 full typescript support
 
+## v4
+
+A beta version exists for svelte 5. You can install it with the command: `npm install svelte-awesome-color-picker@beta`. You will find the [doc deployed here](https://svelte-awesome-color-picke-git-8efcef-maximes-projects-f3ddeaab.vercel.app/).
+
 ## v3
 
 The major version 3 has been released to remove accessibility issues (see [issue #43](https://github.com/Ennoriel/svelte-awesome-color-picker/issues/43)). The library has also been made simpler and lighter. This comes with [some breaking changes](https://svelte-awesome-color-picker.vercel.app/#update-from-v2-to-v3)
